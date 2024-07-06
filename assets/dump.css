@@ -1,0 +1,53 @@
+body {
+    font-family: 'Courier New', monospace;
+    background-color: #000;
+    color: #0f0;
+    margin: 0;
+    padding: 20px;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+    color: #f00;
+}
+.prompt {
+    background-color: #111;
+    border: 1px solid #0f0;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.secret-dump {
+    height: 400px;
+    overflow-y:hidden;
+    background-color: #111;
+    border: 1px solid #0f0;
+    padding: 10px;
+    position: relative;
+}
+.blur-overlay {
+    position: absolute;
+    top: 50px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(transparent, #111);
+    pointer-events: none;
+}
+.secret-text {
+    white-space: pre;
+    user-select: none;
+}
+.paywall-btn {
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #f00;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+}
