@@ -1,0 +1,11 @@
+# Resources
+- [Linux Journey](https://linuxjourney.com/): friendly curriculum to learn Linux
+- [CryptoHack](https://cryptohack.org/): learn the fundamentals of cryptography in an engaging way
+- [picoCTF](https://picoctf.org/): picoCTF, many challenges, good practice
+- [TryHackMe](https://tryhackme.com/): curated learning paths, walkthrough
+    - structured and guided learning
+    - the [Complete Beginner](https://tryhackme.com/path/outline/beginner) path is a very good place to start
+- [Hack The Box](https://app.hackthebox.eu/): vulnerable machines to learn pentesting
+    - more advanced, better for after you have some experience with TryHackMe
+- [OverTheWire](https://overthewire.org/wargames/): gamified security challenges
+    - specifically [Bandit](https://overthewire.org/wargames/bandit/) which are the linux challenges we we went through in the bootcamp
